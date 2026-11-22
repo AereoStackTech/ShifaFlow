@@ -1,0 +1,6 @@
+{
+  "name": "ShifaFlow",
+  "description": "Multi-tenant medical clinic management (ERP) and conflict-free patient appointment booking SaaS concept with bilingual Arabic/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
